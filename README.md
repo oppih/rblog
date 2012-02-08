@@ -1,4 +1,4 @@
-Learning rails
+Learning Ruby on Rails with [Railscasts-china](http://railscasts-china.com/)
 
 
 == Welcome to Rails
