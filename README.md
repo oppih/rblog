@@ -1,5 +1,6 @@
 Learning Ruby on Rails with [Railscasts-china](http://railscasts-china.com/)
 
+Just move it to [GitCafe](http://gitcafe.com/oppih/Railscasts-China-Demo)
 
 == Welcome to Rails
 
